@@ -1,4 +1,3 @@
-
 import { apiKey } from './config.js';
 
 export default function App() {
